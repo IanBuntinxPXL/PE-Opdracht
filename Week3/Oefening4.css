@@ -1,0 +1,21 @@
+.green{
+    background-color:green;
+}
+.red{
+    background-color: red;
+}
+.yellow{
+    background-color: yellow;
+}
+.blue{
+    background-color: blue;
+}
+table td{
+    height: 50px;
+    width: 50px;
+    border: solid black 1px;
+}
+table{
+    border: solid black 1px;
+    border-spacing: 0;
+}

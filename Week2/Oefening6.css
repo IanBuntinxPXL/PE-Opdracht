@@ -1,0 +1,46 @@
+body{
+    font-family: 'Roboto';
+    background-color: #001359;
+}
+h1{
+    color: wheat;
+}
+h2{
+    color: azure;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: wheat;
+}
+li{
+    color: white;
+}
+#pkp, #rw, #tl, #gp, #d{
+    border: solid wheat 1px;
+    border-radius: 25px;
+    padding: 10pt;
+    margin-left: 50pt;
+}
+#pkpl{
+    background-color: lightblue;
+    color: grey;
+}
+#rwl{
+    background-color: lightsalmon;
+    color: grey;
+}
+#tll{
+    background-color: pink;
+    color: grey;
+}
+#gpl{
+    background-color: lightgreen;
+    color: grey;
+}
+#dl{
+    background-color: blanchedalmond;
+    color: grey;
+}

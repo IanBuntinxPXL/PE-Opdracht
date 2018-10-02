@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    color: #ffe14f;
+}
+body{
+    background-color: #151c28;
+}
+article{
+    border: solid #ffe14f 1px;
+    border-radius: 15px;
+    width: 60%;
+    margin: 0 auto;
+    padding: 6pt;
+}
+article:hover{
+    background-color: #8daec6;
+}

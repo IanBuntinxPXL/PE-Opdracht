@@ -1,0 +1,28 @@
+body{
+    font-family: 'Roboto';
+}
+table{
+    width: 100%;
+    border: solid black 1pt;
+    border-spacing: 0;
+    background-color: #c7ced8;
+}
+table thead{
+    background-color: #27426d;
+}
+td{
+    text-align: center;
+    color: white;
+    border: solid black 1pt;
+    height: 35px;
+    width: 100px;
+}
+tbody tr:nth-child(2n+1){
+    background-color: #4f8cef;
+}
+tbody tr:nth-child(2n){
+    background-color: #6facff;
+}
+tfoot{
+    background-color: #27426d;
+}

@@ -1,0 +1,8 @@
+tbody td{
+    width: 350px;
+    text-align: left;
+}
+body{
+    background-color: grey;
+    font-family: 'Roboto'
+}
